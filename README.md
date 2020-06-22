@@ -7,4 +7,4 @@ Git, Python, Pipenv, Docker
 ## How to get and run the App
 
 > clone repository
-> `git clone https://github.com/msydor3nko/FastAPI-Calculator.git`
+`git clone https://github.com/msydor3nko/FastAPI-Calculator.git`
