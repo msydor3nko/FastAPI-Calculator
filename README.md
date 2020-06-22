@@ -1,5 +1,5 @@
 # FastAPI-Calculator
-The simple calculator based on FastAPI framework.
+The simple calculator based on FastAPI framework
 
 ## What you need for running the App
 Git, Python 3, Pipenv, Docker
