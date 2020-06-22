@@ -6,5 +6,11 @@ Git, Python, Pipenv, Docker
 
 ## How to get and run the App
 
-> clone repository
+* clone repository
 `git clone https://github.com/msydor3nko/FastAPI-Calculator.git`
+
+* Activate virtual environment
+`pipenv shell`
+
+* Install needed modeles from Pipfile
+`pipenv install --dev`
