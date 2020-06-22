@@ -24,7 +24,7 @@ Git, Python 3, Pipenv, Docker
 * Run ASGI server with working App
 `uvicorn main:app --reload`
 
-* Enter by provided link in '/docs' to interact with the App
+* Follow by provided link 'http://127.0.0.1:8000/docs' to interact with the App API
 
 * Also, you can testing the App using PyTest as in the comand bellow
 `pytest -v`
