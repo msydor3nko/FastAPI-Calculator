@@ -15,13 +15,13 @@ Git, Python 3, Pipenv, Docker
 * Activate virtual environment
 `pipenv shell`
 
-* Install all needed libraries from Pipfile
+* Install all needed libraries from 'Pipfile'
 `pipenv install --dev`
 
-* Run MongoDB into Docker container using 'docker-compose.yml' file
+* Run MongoDB into Docker container using 'docker-compose.yml'
 `docker-compose up`
 
-* Run ASGI server with App
+* Run ASGI server with working App
 `uvicorn main:app --reload`
 
 * Enter by provided link in '/docs' to interact with the App
